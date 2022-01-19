@@ -109,9 +109,11 @@ body {
 	body {
 		padding: 40px 0;
 	}
+
 	.contenido-principal {
 		flex-direction: column;
 	}
+
 	.contenido-principal>* {
 		width: 100%;
 	}
